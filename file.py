@@ -1,4 +1,3 @@
-
 def add(a, b):
     return a + b
 
@@ -24,6 +23,3 @@ def main():
     print("Subtraction:", subtract(num1, num2))
     print("Multiplication:", multiply(num1, num2))
     print("Division:", divide(num1, num2))
-
-if __name__ == "__main__":
-    main()
