@@ -1,5 +1,6 @@
 # Simple Python Program
 
+# for practice
 print("Hello, World!")
 
 name = input("What is your name? ")
